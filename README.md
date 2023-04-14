@@ -52,7 +52,7 @@ The Scatterplot depicts the best films for the actor which went on to be a block
 2. HOLLYWOOD ACTOR'S CAREER DASHBOARD: 
 
 The report shows an actor’s performance where a time series graph tells the profits earned in movies per year. 
-Clearly, the selected'Will Smith' Actor earned the highest profit in 1996 around 200M $.The bar chart shows top performing Directors under an actor countrywise based on profits earned. Clearly, the best Director of Will Smith’s movies is “Roland Emmerich” with a whopping profit of 240M $.The Scatterplot shows IMDb ratings of movies by an actor wrt. time. Clearly,”Seven Pounds” is the best film of “Will Smith.”The Box and Whiskers Plot shows the Average Duration of movies based on an actor.
+Clearly, the selected'Will Smith' Actor earned the highest profit in 1996 around 200M $. The bar chart shows top performing Directors under an actor countrywise based on profits earned. Clearly, the best Director of Will Smith’s movies is “Roland Emmerich” with a whopping profit of 240M $.The Scatterplot shows IMDb ratings of movies by an actor wrt. time. Clearly,”Seven Pounds” is the best film of “Will Smith.”The Box and Whiskers Plot shows the Average Duration of movies based on an actor.
  
 3.BOLLYWOOD GENRE BASED RESEARCH: 
 
